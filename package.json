@@ -1,13 +1,16 @@
 {
-  "name": "atom16",
+  "name": "0001",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "สล็อตปันโปร สปินฟรี",
   "keywords": [
-    "syntax",
-    "theme"
+    "สล็อตpg",
+    "สล็อตออนไลน์",
+    "สล็อตเว็บตรง",
+    "สล็อตแตกง่าย",
+    "slot online"
   ],
-  "repository": "https://github.com/atom/atom16",
+  "repository": "https://github.com/atomicanother/atom16",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
